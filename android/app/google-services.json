@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723431598724",
+    "project_id": "plant-manager-2c6b2",
+    "storage_bucket": "plant-manager-2c6b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723431598724:android:be3cd5b35378069629f0d1",
+        "android_client_info": {
+          "package_name": "com.plantmanagerr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723431598724-aqapssm8cbompjggal65vgq22b6qu3o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nVxVfUO_h9GVVu3Ypt0O6Rpzrfl8ADw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723431598724-aqapssm8cbompjggal65vgq22b6qu3o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
